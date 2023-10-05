@@ -1,6 +1,6 @@
-# Weather API Web Application(https://akash-agnihotri.github.io/Weather-API-Web-Application/)
+# Weather API Web Application
 
-This is a simple web application that allows users to check the weather for a specific location. The application uses the OpenWeatherMap API to retrieve weather data for the entered location and displays it on the webpage.
+This is a simple web application (https://akash-agnihotri.github.io/Weather-API-Web-Application/) that allows users to check the weather for a specific location. The application uses the OpenWeatherMap API to retrieve weather data for the entered location and displays it on the webpage.
 
 ## Table of Contents
 - [Features](#features)
