@@ -17,7 +17,8 @@ This is a simple web application that allows users to check the weather for a sp
 1. Clone this repository to your local machine or download the HTML and CSS files.
 2. Open the `index.html` file in a web browser.
 
-![Screenshot](screenshot.png)
+![Screenshot] ![Screenshot](https://github.com/Akash-Agnihotri/Weather-API-Web-Application/assets/143778749/3b8b2920-23a3-4004-bf37-fb57f036a67d)
+
 
 3. Enter a location in the input field and click the search button.
 4. The weather information for the specified location will be displayed on the webpage.
